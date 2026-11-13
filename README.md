@@ -14,4 +14,4 @@
 
 ![Результат](img/image1.png)
 
-![Git](img/)
+![Git](img/image2.png)
